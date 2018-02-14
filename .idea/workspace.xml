@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sip2JavaUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sip2JavaUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/xtlog/utils/Sip2JavaUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1525">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="375">
+              <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5862#5878#0" expanded="true" />
@@ -28,6 +28,7 @@
                 <element signature="e#9066#9067#0" expanded="true" />
                 <element signature="e#9098#9099#0" expanded="true" />
                 <element signature="e#9131#9132#0" expanded="true" />
+                <element signature="e#9161#9162#0" expanded="true" />
                 <element signature="e#9206#9207#0" expanded="true" />
                 <element signature="e#9244#9245#0" expanded="true" />
                 <element signature="e#9278#9279#0" expanded="true" />
@@ -75,6 +76,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TestSip2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/net/xtlog/test/TestSip2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -98,6 +109,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_datestamp</find>
+    </findStrings>
     <replaceStrings>
       <replace>datestamp</replace>
     </replaceStrings>
@@ -114,6 +128,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/net/xtlog/utils/Sip2JavaUtil.java" />
+        <option value="$PROJECT_DIR$/src/net/xtlog/test/TestSip2.java" />
       </list>
     </option>
   </component>
@@ -162,6 +177,13 @@
               <item name="sip2java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="xtlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sip2java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip2java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xtlog" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sip2java" type="b2602c69:ProjectViewProjectNode" />
@@ -301,12 +323,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518573181522</updated>
-      <workItem from="1518573184812" duration="2619000" />
+      <workItem from="1518573184812" duration="2952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2619000" />
+    <option name="totallyTimeSpent" value="2952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -364,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/net/xtlog/utils/Sip2JavaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="375">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5862#5878#0" expanded="true" />
@@ -422,6 +444,14 @@
             <element signature="e#10693#10694#0" expanded="true" />
             <element signature="e#10721#10722#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/xtlog/test/TestSip2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
